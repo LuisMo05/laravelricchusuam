@@ -148,7 +148,7 @@
                   <div class="text-center p-4">
                       <h5 class="mb-0">Dra. Daniela Aguirre</h5>
                       <br>
-                      <small>Mátematicas Aplicadas y Sistemas</small>
+                      <small>Matemáticas Aplicadas y Sistemas</small>
                   </div>
               </div>
           </div>
@@ -186,7 +186,7 @@
                   <div class="text-center p-4">
                       <h5 class="mb-0">Dr. Edwin Montes Orozco</h5>
                       <br>
-                      <small>Mátematicas Aplicadas y Sistemas</small>
+                      <small>Matemáticas Aplicadas y Sistemas</small>
                   </div>
               </div>
           </div>
