@@ -37,7 +37,7 @@
                   </div>
                   <div class="text-center p-4">
                       <h5 class="mb-0">Dr. Enrique Rodriguez De la Colina</h5>
-                      <small>Redes y Telecomuicaciones</small>
+                      <small>Redes y Telecomunicaciones</small>
                   </div>
               </div>
           </div>
@@ -55,7 +55,7 @@
                   </div>
                   <div class="text-center p-4">
                       <h5 class="mb-0">Dr. Ricardo Marcelin Jiménez</h5>
-                      <small>Redes y Telecomuicaciones</small>
+                      <small>Redes y Telecomunicaciones</small>
                   </div>
               </div>
           </div>               
@@ -110,7 +110,7 @@
                   <div class="text-center p-4">
                       <h5 class="mb-0">Dr, Michael Pascoe Chalke</h5>
                       <br>
-                      <small>Redes y Telecomuicaciones</small>
+                      <small>Redes y Telecomunicaciones</small>
                   </div>
               </div>
           </div>
@@ -148,7 +148,7 @@
                   <div class="text-center p-4">
                       <h5 class="mb-0">Dra. Daniela Aguirre</h5>
                       <br>
-                      <small>Matematicas Aplicadas y Sistemas</small>
+                      <small>Mátematicas Aplicadas y Sistemas</small>
                   </div>
               </div>
           </div>
@@ -186,7 +186,7 @@
                   <div class="text-center p-4">
                       <h5 class="mb-0">Dr. Edwin Montes Orozco</h5>
                       <br>
-                      <small>Matematicas Aplicadas y Sistemas</small>
+                      <small>Mátematicas Aplicadas y Sistemas</small>
                   </div>
               </div>
           </div>
@@ -204,7 +204,7 @@
                   </div>
                   <div class="text-center p-4">
                       <h5 class="mb-0">Dr. Eric Alfredo Rincón Gracia</h5>
-                      <small>Inteligengia Artificial</small>
+                      <small>Inteligencia Artificial</small>
                   </div>
               </div>
           </div>
