@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Http\Controllers\errorController;
 
 class buildController extends Controller
 {
@@ -10,4 +11,5 @@ class buildController extends Controller
     {
         return view('build');
     }
+    
 }

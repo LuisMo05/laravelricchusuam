@@ -5,7 +5,17 @@
     --dark: #000000;
     --succes:#025a1e;
     --yare: #AD25A8;
+    
+}
 
+.icon-build{
+    color: #F08200;
+}
+.icon-404{
+    color: #ff0000;
+}
+.icon-rg{
+    color: #ffffff;
 }
 
 .fw-medium {

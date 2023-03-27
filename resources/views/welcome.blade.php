@@ -1,6 +1,7 @@
 @extends('layouts.template')
 
 @section('contenido')
+
 <!-- Carousel Start -->
 <div class="container-fluid p-0 mb-5">
     <div class="owl-carousel header-carousel position-relative">
@@ -90,7 +91,7 @@
   </div>
 
 
-<!-- Testimonial Start -->
+<!-- sloan de comitiva -->
 <div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
     <div class="container">
         <div class="text-center">

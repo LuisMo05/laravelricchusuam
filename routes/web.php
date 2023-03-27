@@ -4,6 +4,7 @@ use App\Http\Controllers\HomeController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\teamController;
 use App\Http\Controllers\buildController;
+use App\Http\Controllers\errorController;
 use Monolog\Processor\HostnameProcessor;
 
 /*
@@ -27,6 +28,12 @@ Route::controller(buildController::class)->group(function(){
     Route::get('/eventos', 'index');
 });
 
+Route::controller(errorController::class)->group(function(){
+    Route::get('/eventos/{word}', 'index');
+    //Route::get('comunicaciones/{word}', 'index');
+    //Route::get('redescomplejas/{word}', 'index');
+    //Route::get('/{word}', 'index');
+});
 
 //Auth::routes();
 

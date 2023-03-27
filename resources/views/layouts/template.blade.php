@@ -20,12 +20,22 @@
     <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;600&family=Nunito:wght@600;700;800&display=swap" rel="stylesheet">
 
     <!-- Icon Font Stylesheet -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/css/bootstrap.min.css" integrity="sha512-XSvJl6z+oELjkpMyE3Hq04J0oL2ey4ieDjKBU2Z8/nCrZd6+pKx+PwU6P5iv6v5U6L5c6SKL+GZ+I/cknSxZGA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" integrity="sha512-bnE7a5h5X5o5rE6rPb6r//Y6w1nLh1n8gRNv+jGzH6i9DroFovrPTlUvF6jrNwzU0N2W+Gx/zwAtVpA/6k9G0w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" integrity="sha512-bnE7a5h5X5o5rE6rPb6r//Y6w1nLh1n8gRNv+jGzH6i9DroFovrPTlUvF6jrNwzU0N2W+Gx/zwAtVpA/6k9G0w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" integrity="sha384-L6U4h6UgsIZpsGc9XZKThhr97BrfYbYvpPwHJy7x/Ug/S8/lvDjH5zM5XZisJl5r" crossorigin="anonymous" />
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.3/css/bootstrap.min.css" integrity="sha512-SbiR/eusphKoMVVXysTKG/7VseWii+Y3FdHrt0EpKgpToZeemhqHeZeLWLhJutz/2ut2Vw1uQEj2MbRF+TVBUA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <!--link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/css/bootstrap.min.css" integrity="sha512-XSvJl6z+oELjkpMyE3Hq04J0oL2ey4ieDjKBU2Z8/nCrZd6+pKx+PwU6P5iv6v5U6L5c6SKL+GZ+I/cknSxZGA==" crossorigin="anonymous" referrerpolicy="no-referrer" /-->
+    <!--link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" integrity="sha512-bnE7a5h5X5o5rE6rPb6r//Y6w1nLh1n8gRNv+jGzH6i9DroFovrPTlUvF6jrNwzU0N2W+Gx/zwAtVpA/6k9G0w==" crossorigin="anonymous" referrerpolicy="no-referrer" /-->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous"/>
+    
+    <!--link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesme/5.15.2/css/all.min.css" integrity="sha512-bnE7a5h5X5o5rE6rPb6r//Y6w1nLh1n8gRNv+jGzH6i9DroFovrPTlUvF6jrNwzU0N2W+Gx/zwAtVpA/6k9G0w==" crossorigin="anonymous" referrerpolicy="no-referrer" /-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.3/css/bootstrap.min.css" integrity="sha512-SbiR/eusphKoMVVXysTKG/7VseWii+Y3FdHrt0EpKgpToZeemhqHeZeLWLhJutz/2ut2Vw1uQEj2MbRF+TVBUA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.3/css/bootstrap.min.css" integrity="sha512-SbiR/eusphKoMVVXysTKG/7VseWii+Y3FdHrt0EpKgpToZeemhqHeZeLWLhJutz/2ut2Vw1uQEj2MbRF+TVBUA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!--link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet"-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!--link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet"-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.3/font/bootstrap-icons.min.css" integrity="sha512-YFENbnqHbCRmJt5d+9lHimyEMt8LKSNTMLSaHjvsclnZGICeY/0KYEeiHwD1Ux4Tcao0h60tdcMv+0GljvWyHg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
     <!-- Libraries Stylesheet -->
     <link href="lib/animate/animate.min.css" rel="stylesheet">
@@ -37,7 +47,10 @@
     <!-- Template Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
     
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/js/bootstrap.min.js" integrity="sha512-HV7KZDpIBuV7OZwz+uZZK2dFgOr/DNgCGX9AGNY/Guys3c3oVEh17zpw2OKwF1lLs1gMXtR0oHX/D9f/rLs3FQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.3/js/bootstrap.min.js" integrity="sha512-1/RvZTcCDEUjY/CypiMz+iqqtaoQfAITmNSJY17Myp4Ms5mdxPS5UV7iOfdZoxcGhzFbOm6sntTKJppjvuhg4g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <!--script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script-->
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 </head>
 
 <body>
@@ -71,8 +84,8 @@
                         <div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown"><i class="bi bi-book"></i> Investigación </a>
                             <div class="dropdown-menu fade-down m">
-                                <a href="{{asset('/comunicaciones')}}" class="dropdown-item"> Red de comunicaciones </a>
-                                <a href="{{asset('/redescomplejas')}}" class="dropdown-item"> Redes Complejas</a>
+                                <a href="{{asset('comunicaciones')}}" class="dropdown-item"> Red de comunicaciones </a>
+                                <a href="{{asset('redescomplejas')}}" class="dropdown-item"> Redes Complejas</a>
                             </div>
                         </div>
                     </li>
@@ -93,6 +106,7 @@
         <br>
     </div>
       
+    <!-- Espacio para contenido de las  páginas web -->
     @yield('contenido')
         
 
@@ -103,7 +117,7 @@
                 <div class="col-4">
                     <h3 class=" mb-3" id="h-footer">Acceso rápido a nuestros Link's</h3>
                     <a class="btn btn-link" href="{{asset('/#nosotros')}}" id="a-footer">Acerca de Nosotros</a>
-                    <a class="btn btn-link" href="{{asset('/comunicaciones')}}#!" id="a-footer">Investigación</a>
+                    <a class="btn btn-link" href="{{asset('/comunicaciones')}}" id="a-footer">Investigación</a>
                     <a class="btn btn-link" href="{{asset('/team')}}" id="a-footer">Miembros</a>
                     <a class="btn btn-link" href="{{asset('/eventos')}}" id="a-footer">Eventos</a>
                 </div>
@@ -124,8 +138,8 @@
             <div class="copyright">
                 <div class="row">
                     <div class="col-md-6 text-center text-md-start mb-2 mb-md-0 offset-md-4">
-                        &copy; <a class="border-bottom" href="#">Red de investigación RICCHUS</a>
-                        , Todos los derechos reservados. Designed By <a class="border-bottom" href="">VLMY</a><br><br>
+                        &copy; <a class="border-bottom" href="{{asset('/')}}">Red de investigación RICCHUS</a>
+                        , Todos los derechos reservados 2023. Designed By <a class="border-bottom" href="">VLMY</a><br><br>
                     </div>
                 </div>
             </div>
@@ -139,11 +153,12 @@
 
 
     <!-- JavaScript Libraries -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/js/bootstrap.min.js" integrity="sha512-HV7KZDpIBuV7OZwz+uZZK2dFgOr/DNgCGX9AGNY/Guys3c3oVEh17zpw2OKwF1lLs1gMXtR0oHX/D9f/rLs3FQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.3/js/bootstrap.min.js" integrity="sha512-1/RvZTcCDEUjY/CypiMz+iqqtaoQfAITmNSJY17Myp4Ms5mdxPS5UV7iOfdZoxcGhzFbOm6sntTKJppjvuhg4g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.10.2/umd/popper.min.js" integrity="sha512-xKL0t2PZtPLzvHlwP0oFMZJ/fhxP23e2LpqmvW1+T9Oc9s/kJvn16l0YBTHlO+RvnADwSwHLf4MTZ4JLbWoovQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.11.7/umd/popper.min.js" integrity="sha512-uaZ0UXmB7NHxAxQawA8Ow2wWjdsedpRu7nJRSoI2mjnwtY8V5YiCWavoIpo1AhWPMLiW5iEeavmA3JJ2+1idUg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.2/js/bootstrap.bundle.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/js/bootstrap.min.js" integrity="sha512-HV7KZDpIBuV7OZwz+uZZK2dFgOr/DNgCGX9AGNY/Guys3c3oVEh17zpw2OKwF1lLs1gMXtR0oHX/D9f/rLs3FQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.3/js/bootstrap.min.js" integrity="sha512-1/RvZTcCDEUjY/CypiMz+iqqtaoQfAITmNSJY17Myp4Ms5mdxPS5UV7iOfdZoxcGhzFbOm6sntTKJppjvuhg4g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script src="lib/wow/wow.min.js"></script>
     <script src="lib/easing/easing.min.js"></script>
     <script src="lib/waypoints/waypoints.min.js"></script>
