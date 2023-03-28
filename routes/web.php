@@ -28,12 +28,13 @@ Route::controller(buildController::class)->group(function(){
     Route::get('/eventos', 'index');
 });
 
-Route::controller(errorController::class)->group(function(){
-    Route::get('/eventos/{word}', 'index');
-    //Route::get('comunicaciones/{word}', 'index');
-    //Route::get('redescomplejas/{word}', 'index');
-    //Route::get('/{word}', 'index');
+/*Route::controller(errorController::class)->group(function(){
+    Route::get('eventos/{word}', 'index');
+    Route::get('comunicaciones/{word}', 'index');
+    Route::get('redescomplejas/{word}', 'index');
+    Route::get('/{word}', 'index');
 });
+*/
 
 //Auth::routes();
 
