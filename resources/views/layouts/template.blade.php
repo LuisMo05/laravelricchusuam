@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="Es">
-<!-- Se usa la versión 5.0.0 de botstrap -->
-<!-- Head Start -->
+<!-- Se usa la versión 5.2.3 de botstrap -->
+<!-- Inicia Cabecera -->
 
 <head>
     <meta charset="utf-8">
@@ -10,9 +10,6 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
-
-    <!-- Favicon -->
-    <!--<link href="img/favicon.ico" rel="icon">-->
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -47,15 +44,15 @@
 
 <body>
 
-    <!-- Spinner Start -->
+    <!-- Inicia Spinner -->
     <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
         <div class="spinner-border text-dark" style="width: 3rem; height: 3rem;" role="status">
             <span class="sr-only">Loading...</span>
         </div>
     </div>
-    <!-- Spinner End -->
+    <!-- Termina Spinner -->
 
-    <!-- Navbar Start -->
+    <!-- Barra de navegacion -->
     <nav class="navbar navbar-expand-xl navbar-dark text-light" id="nv">
         <div class="container-fluid">
             <a class="navbar-brand ms-0" href="{{asset('/')}}">
@@ -99,10 +96,11 @@
     </div>
       
     <!-- Espacio para contenido de las  páginas web -->
+
     @yield('contenido')
         
 
-    <!-- Footer Start -->
+    <!-- Inicia Footer -->
     <div class="container-fluid text-light footer pt-5 mt-5 " data-wow-delay="0.1s">
         <div class="container py-20">
             <div class="row g-24">
@@ -137,10 +135,10 @@
             </div>
         </div>
     </div>
-    <!-- Footer End -->
+    <!-- Termina el Footer -->
 
 
-    <!-- Back to Top -->
+    <!-- Regresar al inicio de página -->
     <a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
 
 
